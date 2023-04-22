@@ -1,0 +1,15 @@
+D:\C#\210 Crawl\obj\Debug\210 Crawl.csproj.AssemblyReference.cache
+D:\C#\210 Crawl\obj\Debug\210 Crawl.csproj.SuggestedBindingRedirects.cache
+D:\C#\210 Crawl\obj\Debug\210 Crawl.csproj.CoreCompileInputs.cache
+D:\C#\210 Crawl\bin\Debug\210 Crawl.exe.config
+D:\C#\210 Crawl\bin\Debug\210 Crawl.exe
+D:\C#\210 Crawl\bin\Debug\210 Crawl.pdb
+D:\C#\210 Crawl\bin\Debug\HtmlAgilityPack.dll
+D:\C#\210 Crawl\bin\Debug\HtmlAgilityPack.pdb
+D:\C#\210 Crawl\bin\Debug\HtmlAgilityPack.xml
+D:\C#\210 Crawl\obj\Debug\210 Crawl.csproj.CopyComplete
+D:\C#\210 Crawl\obj\Debug\210 Crawl.exe
+D:\C#\210 Crawl\obj\Debug\210 Crawl.pdb
+D:\C#\210 Crawl\bin\Debug\Newtonsoft.Json.dll
+D:\C#\210 Crawl\bin\Debug\xNet.dll
+D:\C#\210 Crawl\bin\Debug\Newtonsoft.Json.xml
